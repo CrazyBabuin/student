@@ -1,0 +1,6 @@
+Django==1.11.4
+pygame==1.9.3
+PyQt5==5.9
+pytz==2017.2
+sip==4.19.3
+virtualenv==15.1.0
